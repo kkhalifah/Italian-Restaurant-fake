@@ -1,4 +1,7 @@
 .foodImages {
   width: 75%;
-
+}
+.menu {
+  color: blue;
+  background-color: red;
 }
