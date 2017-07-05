@@ -1,8 +1,9 @@
-header {
-  /*image as band on top*/
+.headImage {
+  /*position: fixed;
+  clip: rect(10px,10px,10px,10px)*/
 }
 nav {
-  background-color: gray;
+  /*background-color: gray;*/
 }
 
 ul {
