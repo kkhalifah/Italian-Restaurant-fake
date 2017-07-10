@@ -43,6 +43,10 @@ li a {
     color: white;
 }
 
+.social {
+  padding: 10px;
+}
+
 .addressFooter {
   /*float: right;*/
   color: white;
@@ -51,6 +55,7 @@ li a {
 small {
   float: right;
   color: white;
+  margin-top: 20px;
 }
 
 .foodImages {
@@ -63,7 +68,7 @@ small {
 }
 
 .food {
-  /*display:flex;*/
+  display:flex;
   justify-content:center;
   align-items:center;
   margin: 0 auto;
@@ -99,21 +104,18 @@ h2.indexIcon {
   width: 45%;
 }
 
-.social {
-
-}
-
+/*
 .twitter {
-  width: 13%;
+  width: 50%;
 }
 
 .linkedin {
-  width: 70%;
+  width: 50%;
 }
 
 .facebook {
-  width: 100%;
-}
+  width: 50%;
+}*/
 
 /*h2:hover {
     background-color: rgba(0,0,0,0.6);
