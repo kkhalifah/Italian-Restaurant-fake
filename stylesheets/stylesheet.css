@@ -99,6 +99,18 @@ h2.indexIcon {
   width: 45%;
 }
 
+.social {
+
+}
+
+.twitter {
+  width: 13%;
+}
+
+.linkedin {
+  width: 70%;
+}
+
 /*h2:hover {
     background-color: rgba(0,0,0,0.6);
     color: #fff;
