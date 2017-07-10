@@ -1,6 +1,7 @@
 body {
-  padding: 0;
-  margin: 0;
+  background-image: url('../images/papertexture.jpg');
+  padding: 0px;
+  margin: 0px;
 }
 
 .inset {
@@ -13,7 +14,15 @@ body {
 
 .basil {
   background-image: url('../images/basilclipped.jpg');
-  height: 50px;
+  height: 25%;
+  width: 100%;
+  margin-top: -15px;
+}
+
+.footer {
+  background-image: url('../images/basil_foot.jpg');
+  width: 100%;
+  padding: 20px;
 }
 
 ul {
@@ -32,6 +41,16 @@ li {
 
 li a {
     color: white;
+}
+
+.addressFooter {
+  /*float: right;*/
+  color: white;
+}
+
+small {
+  float: right;
+  color: white;
 }
 
 .foodImages {
