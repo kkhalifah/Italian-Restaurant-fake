@@ -19,11 +19,11 @@ body {
   margin-top: -15px;
 }
 
-/*.footer {
+.footer {
   background-image: url('../images/basil_foot.jpg');
   width: 100%;
   padding: 20px;
-}*/
+}
 
 ul {
   list-style-type: none;
@@ -63,7 +63,7 @@ small {
 }
 
 .food {
-  display:flex;
+  /*display:flex;*/
   justify-content:center;
   align-items:center;
   margin: 0 auto;
@@ -109,6 +109,10 @@ h2.indexIcon {
 
 .linkedin {
   width: 70%;
+}
+
+.facebook {
+  width: 100%;
 }
 
 /*h2:hover {
